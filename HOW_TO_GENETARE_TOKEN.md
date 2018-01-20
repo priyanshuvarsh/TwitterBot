@@ -3,7 +3,7 @@ Follow these simple steps
 I suppose that you have a twitter account, if you do not have twitter account then create a new account.
 
 ### 1. Open http://apps.twitter.com
-After opening apps.twitter click on **Create New App**
+After opening apps.twitter click on **Create New App**<br>
 !['Open apps.twitter'](images/t1.png)
 
 
@@ -20,8 +20,8 @@ After opening apps.twitter click on **Create New App**
 
 
 ### 4. In application section find the following 
-**Consumer key**   *************************
-**Consumer Secret(API Key)**  ************************
+**Consumer key**   *************************<br>
+**Consumer Secret(API Key)**  ************************<br>
 !['Open apps.twitter'](images/t3.png)
 
 ### 5. After getting information scroll down and click on **Create My access token*** in ````Your access token section````
