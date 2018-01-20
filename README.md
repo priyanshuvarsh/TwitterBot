@@ -9,7 +9,10 @@ This is the simplest twitter bot for retweet.
 ## How to use
 1. First create App on twitter.<br>
     Visit: http://apps.twitter.com <br>
-    **You need a twiter account for this.**
+    **You need a twiter account for this.**<br>
+    more details visit https://github.com/surya-veer/TwitterBot/blob/master/HOW_TO_GENETARE_TOKEN.md
+    <br>
+    <br>
    
 2. Generate **consumer_key, consumer_secret, access_token, access_token_secret**.
 3. Download ```retweet.py``` form my repository.
