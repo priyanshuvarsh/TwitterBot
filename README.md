@@ -12,7 +12,7 @@ This is the simplest twitter bot for retweet.
     **You need a twiter account for this.**<br>
     <br>
    
-2. Generate **consumer_key, consumer_secret, access_token, access_token_secret**.
+2. Generate **consumer_key, consumer_secret, access_token, access_token_secret**.<br>
      more details visit https://github.com/surya-veer/TwitterBot/blob/master/HOW_TO_GENETARE_TOKEN.md
      <br>
      <br>
